@@ -6,9 +6,16 @@
 
 ## Individual data
 * Jan 25, 2020, Wuhan
+  * [SRA data](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA603194)
   * https://www.biorxiv.org/content/10.1101/2020.01.24.919183v1
   * https://www.nature.com/articles/s41586-020-2008-3
-  * http://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA603194
+  * https://osf.io/usztn/
+  
+* 
+  * https://www.ncbi.nlm.nih.gov/bioproject/PRJNA601630
+  * https://www.ncbi.nlm.nih.gov/sra/SRX7615553[accn]
+  * https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30154-9/fulltext
+  * https://osf.io/jegwq/
 
 ## Merging data
 * Data – China-Illumina -sequences merging Wuhan coronavirus and Prevotella

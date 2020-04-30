@@ -1,5 +1,6 @@
 # NGS data
-
+PRJN
+SSR explain
 ## Collection data
 * [preprint](https://osf.io/usztn/)
 * [blog](https://sanchakblog.wordpress.com/2020/03/25/studies-n4-china3-san-diego-county-showing-secondary-infections-from-sequencing-data-submitted/)
@@ -28,6 +29,8 @@
   * https://www.ncbi.nlm.nih.gov/bioproject/PRJNA612578
   
   
+* Peru data not in preprint, but in twitter (ok)
+
 ## Merging data
 * Data – China-Illumina -sequences merging Wuhan coronavirus and Prevotella
   * PRJNA603194

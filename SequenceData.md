@@ -23,7 +23,11 @@
   * https://osf.io/wcg4k/
   * https://pubpeer.com/publications/B2EFB95676AF3CE1DD6E2EB4DEF001#5
   
-* 
+* San Diego county
+  * https://osf.io/cvbqf/
+  * https://www.ncbi.nlm.nih.gov/bioproject/PRJNA612578
+  
+  
 ## Merging data
 * Data – China-Illumina -sequences merging Wuhan coronavirus and Prevotella
   * PRJNA603194
